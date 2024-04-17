@@ -1,0 +1,31 @@
+match_id,match_name,team_id,team_name,is_home,player_id,player_name,goals_scored,minutes_played
+1719,We Like Puppies vs Nagoya Grampus Eight,17,We Like Puppies,True,36,John Cruz,1,46
+412,,12,Killer Giants,False,31,Philip Webster,1,49
+1618,Fat Married People vs Aliens,18,Aliens,False,97,Alison Clay,2,52
+24,Formerly In Shape Stars vs Benchwarmers,2,Formerly In Shape Stars,True,41,Julie Villa,1,72
+16,"Look Ma, No Hands vs Miscellaneous",1,"Look Ma, No Hands",True,100,Chad Rivera,1,79
+14,"Look Ma, No Hands vs Benchwarmers",1,"Look Ma, No Hands",,200,Christine Bennett,0,61
+27,Formerly In Shape Stars vs 3 Left Feet,2,Formerly In Shape Stars,True,141,Andrew Bailey,1,64
+216,Formerly In Shape Stars vs Fat Married People,16,Fat Married People,False,35,Deborah Green,0,84
+12,"Look Ma, No Hands vs Formerly In Shape Stars",1,"Look Ma, No Hands",True,80,Melissa Harvey,3,82
+914,Easily Nauseous vs Cape Coast Mysterious Dwarves,14,Cape Coast Mysterious Dwarves,False,153,Jared Bass,0,62
+1215,Killer Giants vs Kicking You,15,Kicking You,False,114,Jared Soto,0,45
+718,3 Left Feet vs Aliens,18,Aliens,False,137,Dan Brown,1,88
+319,Sons Of Chuck Norris vs Nagoya Grampus Eight,3,Sons Of Chuck Norris,True,2,Denise Williamson,2,88
+216,Formerly In Shape Stars vs Fat Married People,16,Fat Married People,False,95,Russell Pace,0,70
+1418,Cape Coast Mysterious Dwarves vs Aliens,18,Aliens,False,137,Dan Brown,3,82
+1314,Lost vs Cape Coast Mysterious Dwarves,13,Lost,True,52,Lauren Moreno,0,65
+220,Formerly In Shape Stars vs Two Left Feet,2,Formerly In Shape Stars,True,201,Tina Bell,0,78
+14,"Look Ma, No Hands vs Benchwarmers",1,"Look Ma, No Hands",True,20,Jonathan Kennedy,0,48
+617,Miscellaneous vs We Like Puppies,6,Miscellaneous,True,45,Samuel Turner,3,80
+1920,Nagoya Grampus Eight vs Two Left Feet,20,Two Left Feet,False,219,Stephanie Brown,0,62
+1419,,14,Cape Coast Mysterious Dwarves,True,53,Kayla Williams,3,56
+67,Miscellaneous vs 3 Left Feet,6,Miscellaneous,True,65,Charles Galloway,0,76
+212,Formerly In Shape Stars vs Killer Giants,12,Killer Giants,False,171,Lisa Brooks,1,68
+27,Formerly In Shape Stars vs 3 Left Feet,2,Formerly In Shape Stars,True,1,Dr. Haley Murphy,0,72
+12,"Look Ma, No Hands vs Formerly In Shape Stars",,Formerly In Shape Stars,False,41,Julie Villa,0,83
+616,Miscellaneous vs Fat Married People,16,Fat Married People,False,115,Denise Harris,0,79
+1518,Kicking You vs Aliens,18,Aliens,False,177,Jennifer Velazquez,0,59
+215,Formerly In Shape Stars vs Kicking You,15,Kicking You,False,154,Gloria Allison,0,70
+114,"Look Ma, No Hands vs Cape Coast Mysterious Dwarves",1,"Look Ma, No Hands",True,120,Courtney Thompson,1,72
+
